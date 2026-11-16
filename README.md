@@ -1,19 +1,6 @@
 # Hi, I'm Himlesh 👋
 
-🎓 BS Artificial Intelligence student | 🚁 Autonomous drone builder | 🤖 ML & robotics enthusiast
-
-I'm passionate about building intelligent systems that can think and fly on their own. My main project is an **autonomous drone**, built from the fundamentals up: drone physics, hardware, simulation, and flight control. Alongside that, I study machine learning, data science, compilers, and information security.
-
----
-
-## 🚁 What I'm Building
-
-**Autonomous Drone Project**
-- Flight control with **ArduPilot** and **Pixhawk**
-- Communication over **MAVLink**, with autonomous flight scripts in **DroneKit**
-- Simulation and testing in **Gazebo SITL**
-- Robotics middleware with **ROS 2**
-- Control theory with **PID controllers**
+🎓 BS Artificial Intelligence student | 🤖 ML & robotics enthusiast
 
 ---
 
@@ -33,22 +20,13 @@ I'm passionate about building intelligent systems that can think and fly on thei
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Robotics & Drones**
-
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-0A3D62?style=for-the-badge)
-![MAVLink](https://img.shields.io/badge/MAVLink-1F6FEB?style=for-the-badge)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge)
-
 **Security & Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![fail2ban](https://img.shields.io/badge/fail2ban-8B0000?style=for-the-badge)
-![iptables](https://img.shields.io/badge/iptables-444444?style=for-the-badge)
 
 ---
 
-## 📚 What I Study
+## 📚 What I Am Currently Studying
 
 - 🤖 Machine Learning
 - 📊 Data Science
@@ -61,20 +39,8 @@ I'm passionate about building intelligent systems that can think and fly on thei
 
 ---
 
-## 💼 Selected Work
-
-- **Autonomous drone**: first autonomous flight script with DroneKit and MAVLink
-- **Telecom customer churn analysis**: data cleaning and EDA with Jupyter, Pandas and Matplotlib
-- **SSH brute-force detection and prevention**: fail2ban, iptables, and key-based authentication
-- **Recursive descent parser** in Java: arithmetic expressions, balanced parentheses, propositional calculus
-- **Infix-to-postfix converter** in Java
-- **Admission Management System (AMS)**: software engineering case study
-
----
-
 ## 🌱 Currently
 
-- 🔭 Building and refining my autonomous drone
 - 📖 Learning robotics, machine learning, and systems programming
 - 🎯 Working toward a career in robotics and AI
 
@@ -82,9 +48,9 @@ I'm passionate about building intelligent systems that can think and fly on thei
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himleshsuthoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/himlesh-kumar-56931a397/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himleshkumar0348@gmail.com)
 
 ---
 
