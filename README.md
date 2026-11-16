@@ -49,7 +49,6 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himlesh-kumar-56931a397/)
-[Email me](mailto:himleshkuamr0348@example.com)
 ---
 
 <p align="center">
