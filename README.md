@@ -26,7 +26,7 @@
 
 ---
 
-## 📚 What I Am Currently Studying
+## 📚 Currently Studying
 
 - 🤖 Machine Learning
 - 📊 Data Science
